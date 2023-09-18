@@ -3,7 +3,7 @@
 
 
 - ## 😶‍🌫️ Who am I ...
-    I am Jishnu Bandyopadhyay, a final year B.Sc. Computer Science Honours Student in Ramakrishna Mission Vivekananda Centenary College.
+    I am Jishnu Bandyopadhyay, a final year B.Sc. Computer Science Honours Student at Ramakrishna Mission Vivekananda Centenary College.
 
 - ## 🔭 I’m currently working on ...
   - Nothing too crazy, I realized I don't have aportfolio yet. So currently working on it. Will upload and host here once done.
