@@ -20,7 +20,7 @@
 - ## 😄 Pronouns: Bug/Error
   Pronouns are for ordinary people. Real programmers are known through their bugs!
 - ## ⚡ Fun fact: ...
-  Well as a jack of all trades, I sometimes do Cmpetetive Programming too. Well I'm no expert, just a beginner, but I would love to chat about that.
+  Well as a jack of all trades, I sometimes do Competetive Programming too. Well I'm no expert, just a beginner, but I would love to chat about that.
 
 
 <p>&nbsp;<img align="center" width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealJishnu&show_icons=true&locale=en&layout=compact&theme=radical" alt="TheRealJishnu" /></p>
