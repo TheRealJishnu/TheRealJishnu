@@ -6,7 +6,7 @@
     I am Jishnu Bandyopadhyay, a final year B.Sc. Computer Science Honours Student at Ramakrishna Mission Vivekananda Centenary College.
 
 - ## 🔭 I’m currently working on ...
-  - Nothing too crazy, I realized I don't have aportfolio yet. So currently working on it. Will upload and host here once done.
+  - Nothing too crazy, I realized I don't have a portfolio yet. So currently working on it. Will upload and host here once done.
   - Also I'm currently doing a research internship at IIEST Shibpur on Machine Learning. I will specify the topic once it is done.
 - ## 🌱 I’m currently learning ...
   The world of Artificial Intelligence is really fascinating, apart from being a buzz word, the concept is pretty mind blowing. So I'm trying to understand the basic logics of deep learning and neural network.
