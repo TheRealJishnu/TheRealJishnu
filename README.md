@@ -3,7 +3,7 @@
 
 
 - ## 😶‍🌫️ Who am I ...
-    I am Jishnu Bandyopadhyay, a first year M.Sc. Computer Science Student at University of Delhi (Department of Computer Science, North Campus)
+    I am Jishnu Bandyopadhyay, a first year M.Sc. Computer Science Student at University of Delhi (Department of Computer Science, North Campus). I am working as a Summer Research Fellow at IIT Bombay under **Summer Research Fellowship Program** by IASc.
 
     Previously, I completed my B.Sc. Computer Science (Honours.) from Ramakrishna Mission Vivekananda Centenary College, Rahara. 
 
